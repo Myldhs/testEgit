@@ -10,7 +10,7 @@ public class GitTest {
 		System.out.println("修改测试冲突");
 		
 		System.out.println("创建出一个开发分支");
-		System.out.println("小游戏模块开发完成");
+		System.out.println("小游戏模块开发完成1111");
 		
 	}
 
