@@ -8,6 +8,10 @@ public class GitTest {
 		System.out.println("项目clone下来首次pull");
 		System.out.println("other的修改");
 		System.out.println("修改测试冲突");
+		
+		System.out.println("创建出一个开发分支");
+		System.out.println("小游戏模块开发完成");
+		
 	}
 
 }
